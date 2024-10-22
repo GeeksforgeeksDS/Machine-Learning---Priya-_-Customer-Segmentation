@@ -1,0 +1,34 @@
+columns:
+  - Year_Birth: int64
+  - Education : object
+  - Marital_Status : object
+  - Income : float64
+  - Kidhome : int64
+  - Teenhome : int64
+  - Dt_Customer : object
+  - Recency     : int64
+  - MntWines    : int64
+  - MntFruits   : int64
+  - MntMeatProducts : int64
+  - MntFishProducts : int64
+  - MntSweetProducts : int64
+  - MntGoldProds     : int64
+  - NumDealsPurchases :  int64
+  - NumWebPurchases   :  int64
+  - NumCatalogPurchases : int64
+  - NumStorePurchases   : int64
+  - NumWebVisitsMonth : int64
+  - AcceptedCmp3      :  int64
+  - AcceptedCmp4      :  int64
+  - AcceptedCmp5      :  int64
+  - AcceptedCmp1      :  int64
+  - AcceptedCmp2      :  int64
+  - Complain          :  int64
+  - Response          :  int64
+
+  
+
+drop_columns:
+  - ID
+  - Z_CostContact 
+  - Z_Revenue

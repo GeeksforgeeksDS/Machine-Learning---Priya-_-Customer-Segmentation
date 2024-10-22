@@ -1,0 +1,23 @@
+columns:
+
+    Age       :              int
+    Education     :          int
+    Marital Status  :        int
+    Parental Status :        int
+    Children        :        int
+    Income            :    float
+    Total_Spending    :    float
+    Days_as_Customer   :     int
+    Recency            :     int
+    Wines                :   int
+    Fruits             :     int
+    Meat               :     int
+    Fish               :   float
+    Sweets             :     int
+    Gold                :  float
+    Web                :     int
+    Catalog            :     int
+    Store              :     int
+    Discount Purchases  :    int
+    Total Promo        :     int
+    NumWebVisitsMonth  :     int
